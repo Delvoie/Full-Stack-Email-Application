@@ -206,7 +206,7 @@ This project is part of a learning assignment and is intended for educational pu
 
 ## 👤 Author
 
-Delvoie
+Lucas Delvoie
 
 ## 🙏 Acknowledgments
 
